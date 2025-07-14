@@ -1,0 +1,1 @@
+# Exemplo de conteúdo para sql-injection-payload-list.txt (SecLists)

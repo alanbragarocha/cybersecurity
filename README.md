@@ -5,8 +5,7 @@ Olá! Me chamo **Alan Braga**, sou estudante de **Cybersecurity** e organizo est
 
 [![Website](https://img.shields.io/badge/🌐_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanbragapcd)
 
-[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/alanbragarocha)
-
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alanbragarocha)
 
 ---
 

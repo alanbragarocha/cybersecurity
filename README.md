@@ -4,7 +4,9 @@
 Olá! Me chamo **Alan Braga**, sou estudante de **Cybersecurity** e organizo este repositório com o objetivo de compartilhar e estruturar materiais práticos para estudos, laboratórios e simulações de testes de segurança ofensiva.
 
 [![Website](https://img.shields.io/badge/🌐_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanbragapcd)
-[![Website](https://img.shields.io/badge/🌐_X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alanbragarocha)
+
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/alanbragarocha)
+
 
 ---
 

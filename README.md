@@ -3,8 +3,6 @@
 
 Olá! Me chamo **Alan Braga**, sou estudante de **Cybersecurity** e organizo este repositório com o objetivo de compartilhar e estruturar materiais práticos para estudos, laboratórios e simulações de testes de segurança ofensiva.
 
-[![Website](https://img.shields.io/badge/🌐_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanbragapcd)
-[![X](https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/alanbragarocha)
 
 ---
 
@@ -25,12 +23,6 @@ A estrutura modular e comentada visa facilitar:
 - A compreensão de cada ferramenta
 - A aplicação dos conteúdos em laboratórios como TryHackMe, HTB, VulnHub
 - A adaptação do conteúdo ao seu fluxo de estudo
-
----
-
-## ⚠️ Aviso de Ética
-
-> Este repositório é exclusivamente para **uso educacional e legal**. Nunca utilize essas ferramentas sem autorização explícita do ambiente alvo.
 
 ---
 

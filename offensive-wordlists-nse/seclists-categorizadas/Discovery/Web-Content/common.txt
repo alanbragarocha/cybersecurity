@@ -1,1 +1,0 @@
-# Exemplo de conteúdo para common.txt (SecLists)
